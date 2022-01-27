@@ -2,7 +2,7 @@
 Practice Project 10, Sentiment Analysis
 
 BERT Model Architecture must be downloaded from transformers and must be compiled before loading weights.
-```
+```Python
 from transformers import BertTokenizer, TFBertForSequenceClassification
 from transformers import InputExample, InputFeatures
 
