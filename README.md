@@ -14,3 +14,10 @@ load_model.compile(optimizer=tf.keras.optimizers.Adam(learning_rate=3e-5, epsilo
               metrics=[tf.keras.metrics.SparseCategoricalAccuracy('accuracy')])
 load_model.load_weights('model_weights')
 ```
+Index:
+
+https://drive.google.com/file/d/1fFwX6ISCZhXjyFxjei-RVYnlJ6LxBw5Y/view
+
+Weights:
+
+https://drive.google.com/file/d/1oelRnAixYd0ol3C1zupmmIAOEqANPud0/view
